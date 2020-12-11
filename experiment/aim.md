@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To study Voltage regulator using operational amplifier to produce output of 12V.
