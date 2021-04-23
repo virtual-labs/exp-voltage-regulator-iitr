@@ -1,1 +1,46 @@
-[{"question":"Which among the following factors affect/s the output voltage of a regulated power supply?","answers":{"a":"Load current","b":"Input voltage","c":"Temperature","d":"All of the above"},"correctAnswer":"d"},{"question":"Due to operation of series pass transistor in an active region of linear voltage regulator, ___________","answers":{"a":"The ripple contents in o/p voltage waveform is very low","b":"Then there is no necessity of using high speed transitor","c":"Both a and b","d":"None of the above"},"correctAnswer":"c"},{"question":"Which performance parameter of a regulator is defined as the change in regulated load voltage due to variation in line voltage in a specified range at a constant load current?","answers":{"a":"Load regulation","b":"Line regulation","c":"Temperature stability factor","d":"None of these"},"correctAnswer":"b"},{"question":"State the reason for thermal shutdown of IC regulator?","answers":{"a":"Spikes in temperature","b":"Decrease in temperature","c":"Fluctuation in temperature","d":"Increase in temperature"},"correctAnswer":"d"},{"question":"Which of the following is not a characteristic of adjustable voltage regulators?","answers":{"a":"Non-versatile","b":"Better performance","c":"Increased reliability","d":"None of the mentioned"},"correctAnswer":"a"}]
+[{
+	"question": "Which among the following factors affect/s the output voltage of a regulated power supply?",
+	"answers": {
+		"a": "Load current",
+		"b": "Input voltage",
+		"c": "Temperature",
+		"d": "All of the above"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Due to operation of series pass transistor in an active region of linear voltage regulator, ___________",
+	"answers": {
+		"a": "The ripple contents in o/p voltage waveform is very low",
+		"b": "Then there is no necessity of using high speed transitor",
+		"c": "Both a and b",
+		"d": "None of the above"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which performance parameter of a regulator is defined as the change in regulated load voltage due to variation in line voltage in a specified range at a constant load current?",
+	"answers": {
+		"a": "Load regulation",
+		"b": "Line regulation",
+		"c": "Temperature stability factor",
+		"d": "None of these"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "State the reason for thermal shutdown of IC regulator?",
+	"answers": {
+		"a": "Spikes in temperature",
+		"b": "Decrease in temperature",
+		"c": "Fluctuation in temperature",
+		"d": "Increase in temperature"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Which of the following is not a characteristic of adjustable voltage regulators?",
+	"answers": {
+		"a": "Non-versatile",
+		"b": "Better performance",
+		"c": "Increased reliability",
+		"d": "None of the mentioned"
+	},
+	"correctAnswer": "a"
+}]
