@@ -8,25 +8,25 @@
 	},
 	"correctAnswer": "c"
 }, {
-	"question": "hich type of regulator is considered more efficient?",
+	"question": "An ideal voltage regulator has a voltage regulation of-",
 	"answers": {
-		"a": "Switching regulator",
-		"b": "Special regulator",
-		"c": "Fixed output regulator",
-		"d": "All of the mentioned"
+		"a": "50",
+		"b": "100",
+		"c": "5",
+		"d": "0"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "d"
 }, {
 	"question": "To get a maximum output current, IC regulation are provided with",
 	"answers": {
 		"a": "Radiation source",
 		"b": "Heat sink",
 		"c": "Peak detector",
-		"d": "None of the mentioned"
+		"d": "None of the above"
 	},
 	"correctAnswer": "b"
 }, {
-	"question": "In a linear IC voltage regulator, series pass transistor always operates in ______ region.",
+	"question": "In a linear IC voltage regulator, series pass transistor always operates in______region.",
 	"answers": {
 		"a": "Active",
 		"b": "Saturation",

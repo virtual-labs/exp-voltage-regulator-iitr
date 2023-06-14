@@ -1,42 +1,44 @@
-## <b> Pre-test
+###  Pre-test
 #### Please attempt the following questions
 
-Question 1.
-Which among the following factors affect/s the output voltage of a regulated power supply?<br>
+Q1. Which among the following factors affects the output voltage of a regulated power supply?<br>
 
-A   Load current<br>
-B   Input voltage<br>
-C   Temperature<br>
-<b>D   All of the above</b><br><br>
+a. Load current<br>
+b. Input voltage<br>
+c. Temperature<br>
+d. All of the above<br>
 
-Question 2.
-Due to operation of series pass transistor in an active region of linear voltage regulator, ___________<br>
-A   The ripple contents in o/p voltage waveform is very low<br>
-B   Then there is no necessity of using high speed transitor<br>
-<b>C   Both a and b</b><br>
-D   None of the above<br><br>
 
-Question 3.
-Which performance parameter of a regulator is defined as the change in regulated load voltage due to variation in line voltage in a specified range at a constant load current?<br>
-A   Load regulation<br>
-<b>B   Line regulation</b><br>
-C   Temperature stability factor<br>
-D   None of these<br><br>
+Q2. Due to operation of series pass transistor in an active region of linear voltage regulator_______.<br>
 
-Question 4.
-State the reason for thermal shutdown of IC regulator?<br>
-A   Spikes in temperature<br>
-B   Decrease in temperature<br>
-C   Fluctuation in temperature<br>
-<b>D   Increase in temperature</b><br><br>
+a. The ripple contents in o/p voltage waveform is very low<br>
+b. Then there is no necessity of using high speed transitor<br>
+c. Both a and b<br>
+d. None of the above<br>
 
-Question 5.
-Which of the following is not a characteristic of adjustable voltage regulators?<br>
-<b>A   Non-versatile</b><br>
-B   Better performance<br>
-C   Increased reliability<br>
-D   None of the mentioned<br><br>
 
+Q3. Which performance parameter of a regulator is defined as the change in regulated load voltage due to variation in line voltage in a specified range at a constant load current?<br>
+
+a. Load regulation<br>
+b. Line regulation<br>
+c. Temperature stability factor<br>
+d. None of these<br>
+
+
+Q4. State the reason for thermal shutdown of IC regulator?<br>
+
+a. Spikes in temperature<br>
+b. Decrease in temperature<br>
+c. Fluctuation in temperature<br>
+d. Increase in temperature<br>
+
+
+Q5. Which of the following is not a characteristic of adjustable voltage regulators?<br>
+
+a. Non-versatile<br>
+b. Better performance<br>
+c. Increased reliability<br>
+d. None of the above<br>
 
 
 

@@ -1,5 +1,5 @@
 [{
-	"question": "Which among the following factors affect/s the output voltage of a regulated power supply?",
+	"question": "Which among the following factors affects the output voltage of a regulated power supply?",
 	"answers": {
 		"a": "Load current",
 		"b": "Input voltage",
@@ -8,7 +8,7 @@
 	},
 	"correctAnswer": "d"
 }, {
-	"question": "Due to operation of series pass transistor in an active region of linear voltage regulator, ___________",
+	"question": "Due to operation of series pass transistor in an active region of linear voltage regulator_______.",
 	"answers": {
 		"a": "The ripple contents in o/p voltage waveform is very low",
 		"b": "Then there is no necessity of using high speed transitor",
@@ -40,7 +40,7 @@
 		"a": "Non-versatile",
 		"b": "Better performance",
 		"c": "Increased reliability",
-		"d": "None of the mentioned"
+		"d": "None of the above"
 	},
 	"correctAnswer": "a"
 }]
