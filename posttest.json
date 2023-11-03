@@ -1,0 +1,55 @@
+{
+	"version": 2.0,
+	"questions": [
+		{
+			"question": "Which is not considered as a linear voltage regulator?",
+			"answers": {
+				"a": "Fixed output voltage regulator",
+				"b": "Adjustable output voltage regulator",
+				"c": "Switching regulator",
+				"d": "Special regulator"
+			},
+			"correctAnswer": "c"
+		},
+		{
+			"question": "An ideal voltage regulator has a voltage regulation of-",
+			"answers": {
+				"a": "50",
+				"b": "100",
+				"c": "5",
+				"d": "0"
+			},
+			"correctAnswer": "d"
+		},
+		{
+			"question": "To get a maximum output current, IC regulation are provided with",
+			"answers": {
+				"a": "Radiation source",
+				"b": "Heat sink",
+				"c": "Peak detector",
+				"d": "None of the above"
+			},
+			"correctAnswer": "b"
+		},
+		{
+			"question": "In a linear IC voltage regulator, series pass transistor always operates in______region.",
+			"answers": {
+				"a": "Active",
+				"b": "Saturation",
+				"c": "Cut-off",
+				"d": "All of the above"
+			},
+			"correctAnswer": "a"
+		},
+		{
+			"question": "Which type of IC voltage regulator exhibits continuous variation in the impedance of transistor in order to supply the desired load current?",
+			"answers": {
+				"a": "Linear regulators",
+				"b": "Switching regulators",
+				"c": "Both a and b",
+				"d": "None of the above"
+			},
+			"correctAnswer": "a"
+		}
+	]
+}

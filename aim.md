@@ -1,0 +1,1 @@
+#### To study Voltage regulator using operational amplifier to produce output of 12V with maximum load current of 50mA.
