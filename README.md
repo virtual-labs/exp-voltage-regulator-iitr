@@ -6,7 +6,7 @@
 <b>Discipline | <b> Electronics and Communications
 :--|:--|
 <b> Lab | <b> Analog Electronics
-<b> Experiment|     <b> 5. Voltage regulator using operational amplifier to produce output of 12V with maximum load current of 50mA.
+<b> Experiment|     <b> 4. Voltage regulator using operational amplifier to produce output of 12V with maximum load current of 50mA.
 
 <h5> About the Experiment : </h5> <br>
 
